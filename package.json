@@ -1,0 +1,17 @@
+{
+  "name": "cluster-pdf-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "cluster05",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "del": "^6.0.0",
+    "fs-extra": "^10.0.0",
+    "temp-dir": "^2.0.0",
+    "type-fest": "^2.3.4",
+    "uuid": "^8.3.2"
+  }
+}
